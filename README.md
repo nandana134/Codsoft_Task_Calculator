@@ -1,1 +1,2 @@
 # Codsoft_Task_Calculator
+This Python script implements a basic calculator allowing users to perform addition, subtraction, multiplication, and division. Users input their desired operation (1-4), followed by two numbers. The script then executes the chosen operation and displays the result. The code is modular with separate functions for each operation, providing a straightforward and user-friendly console interface. This calculator is suitable for simple arithmetic tasks and can be used standalone or integrated into other Python projects.
